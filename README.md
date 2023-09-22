@@ -10,7 +10,7 @@ Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 
 ### Cara Pengerjaan
 * membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
-* memasukkan filter expression tcp.stream eq 324
+* memasukkan filter expression tcp.stream eq 324 di wireshark
 * mencari nomer paket 7812, dari sini ditemukan alamat IP srcnya 104.18.14.101
 * karena dilakukan substitusi maka dipisah menjadi 10 4 18 14 10 1
 * kemudian dari angka tersebut di ubah dalam bentuk alphabet menjadi JDRNJA
@@ -28,7 +28,7 @@ Tampilan Wireshark saat mencari IP yang ditanyakan
 ![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/17336a2f-0aa1-45ee-97b0-7cc8c060f69e)
 ### Cara Pengerjaan
 * membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
-* memasukkan filter expression ip.dst untuk mendapatkan ip
+* memasukkan filter expression ip.dst untuk mendapatkan ip di wireshark
 * mencari paket destinasi yang memiliki IP 184.87.193.88
 * menghitung total alamat destinasi dengan IP 184.87.193.88 yang ada, ditemukan terdapat 6 alamat IP
 * memasukkan jawaban "6" ke wsl dan didapatkan flag
@@ -45,8 +45,14 @@ Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 ![no8 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/05a0a474-f0f0-4651-b3e8-47cb8cef030b)
 
 ### Cara Pengerjaan
+* membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
+* memasukkan filter expression tcp.dstport == 80 || udp.dstport == 80 di wireshark
+* karena filter expression sudah sesuai maka bisa dimasukkan ke ncat untuk mendapatkan flag
+* yang dimasukkan ke ncat adalah filter expression sesuai yang ditanyakan yaitu "tcp.dstport == 80 || udp.dstport == 80"
+  
 ### Kendala yang Dihadapi
-
+* tidak ditemukan kendala
+  
 ## Soal 9
 ### Screenshot
 Tampilan wsl untuk mendapatkan flag
@@ -56,8 +62,14 @@ Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 ![no9 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/637a6f89-1e60-48ca-bee3-8c5b9429232c)
 
 ### Cara Pengerjaan
+* membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
+* memasukkan filter expression ip.src == 10.51.40.1 && ip.dst != 10.39.55.34 di wireshark
+* karena filter expression sudah sesuai maka bisa dimasukkan ke ncat untuk mendapatkan flag
+* yang dimasukkan ke ncat adalah filter expression sesuai yang ditanyakan yaitu "ip.src == 10.51.40.1 && ip.dst != 10.39.55.34"
+  
 ### Kendala yang Dihadapi
-
+* tidak ditemukan kendala
+  
 ## Soal 10
 ### Screenshot
 Tampilan wsl untuk mendapatkan flag
@@ -66,5 +78,11 @@ Tampilan wsl untuk mendapatkan flag
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 ![no10](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/ae7376b4-983f-46fb-8e89-39b14887bd2b)
 ### Cara Pengerjaan
+* membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
+* memasukkan filter expression telnet di wireshark
+* melakukan follow TCP Streamnya dan nanti di tcp stream akan ada username dan password dari telnet nya.
+* karena ada banyak username dan password, maka dicoba satu persatu sampai ditemukan jawaban yang benar
+* memasukkan username dan password ini di ncat sehingga akan menemukan flag
+  
 ### Kendala yang Dihadapi
 * harus mencoba semua kemungkinan username dan password hingga menemukan jawaban yang benar untuk mendapat flag
