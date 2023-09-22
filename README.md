@@ -8,6 +8,7 @@
 ## Soal 7
 ### Screenshot
 Tampilan wsl untuk mendapatkan flag
+![no6 2](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/f87f842c-a66d-4eb0-8435-c9814eb9dfa6)
 
 Tampilan Wireshark saat mencari IP yang ditanyakan
 ![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/17336a2f-0aa1-45ee-97b0-7cc8c060f69e)
