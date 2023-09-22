@@ -2,6 +2,10 @@
 
 ## Soal 6
 ### Screenshot
+Tampilan wsl untuk mendapatkan flag
+
+Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
 
@@ -22,15 +26,28 @@ Tampilan Wireshark saat mencari IP yang ditanyakan
 
 ## Soal 8
 ### Screenshot
+Tampilan wsl untuk mendapatkan flag
+![no8 2](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/dc341042-58d0-4fde-bc48-10007f7c8374)
+
+Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
 
 ## Soal 9
 ### Screenshot
+Tampilan wsl untuk mendapatkan flag
+
+Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
 
 ## Soal 10
 ### Screenshot
+Tampilan wsl untuk mendapatkan flag
+
+Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
