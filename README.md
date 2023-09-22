@@ -6,6 +6,7 @@ Tampilan wsl untuk mendapatkan flag
 ![no5 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/d4e95315-b398-471f-85c9-465c8d6e85d9)
 
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+![no6 111](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/95fc7530-460e-4a0a-9fb0-df9496ab3cc1)
 
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
