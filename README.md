@@ -1,4 +1,32 @@
 # Jarkom-Modul-1-IT12-2023
+Nama Anggota :
+1. Raditya Pratama 	(5027211047)
+2. Salmaa Satifha Dewi (5027211011)
+
+## Soal 1
+### Screenshot
+### Cara Pengerjaan
+### Kendala yang Dihadapi
+
+## Soal 2
+### Screenshot
+### Cara Pengerjaan
+### Kendala yang Dihadapi
+
+## Soal 3
+### Screenshot
+### Cara Pengerjaan
+### Kendala yang Dihadapi
+
+## Soal 4
+### Screenshot
+### Cara Pengerjaan
+### Kendala yang Dihadapi
+
+## Soal 5
+### Screenshot
+### Cara Pengerjaan
+### Kendala yang Dihadapi
 
 ## Soal 6
 ### Screenshot
