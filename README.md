@@ -7,7 +7,9 @@
 
 ## Soal 7
 ### Screenshot
-![image](https://ibb.co/vhxQdqv)
+Tampilan wsl untuk mendapatkan flag
+
+Tampilan Wireshark saat mencari IP yang ditanyakan
 ![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/17336a2f-0aa1-45ee-97b0-7cc8c060f69e)
 ### Cara Pengerjaan
 * membuka soal yang tersedia pada platform serta memasukkan kode ncat pada wsl
