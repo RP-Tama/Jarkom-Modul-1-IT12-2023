@@ -30,6 +30,7 @@ Tampilan wsl untuk mendapatkan flag
 ![no8 2](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/dc341042-58d0-4fde-bc48-10007f7c8374)
 
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+![no8 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/05a0a474-f0f0-4651-b3e8-47cb8cef030b)
 
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
