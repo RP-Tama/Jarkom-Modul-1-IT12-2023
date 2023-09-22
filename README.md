@@ -3,6 +3,7 @@
 ## Soal 6
 ### Screenshot
 Tampilan wsl untuk mendapatkan flag
+![no5 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/d4e95315-b398-471f-85c9-465c8d6e85d9)
 
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 
@@ -38,8 +39,10 @@ Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 ## Soal 9
 ### Screenshot
 Tampilan wsl untuk mendapatkan flag
+![no9 2](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/e3aa709a-81e5-46dd-bd6b-a2f69dbf3599)
 
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
+![no9 1](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/637a6f89-1e60-48ca-bee3-8c5b9429232c)
 
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
@@ -49,6 +52,6 @@ Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
 Tampilan wsl untuk mendapatkan flag
 
 Tampilan Wireshark ketika mencoba filter expression yang menjadi jawaban soal
-
+![no10](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/107543354/ae7376b4-983f-46fb-8e89-39b14887bd2b)
 ### Cara Pengerjaan
 ### Kendala yang Dihadapi
