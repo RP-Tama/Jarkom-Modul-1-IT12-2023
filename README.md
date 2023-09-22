@@ -5,28 +5,64 @@ Nama Anggota :
 
 ## Soal 1
 ### Screenshot
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/e9a431f7-215a-4cb8-94f4-8ba961067805)
 ### Cara Pengerjaan
+aktivitasnya request c775-GrabThePhisher.zip di packet ke 147 dan respon nya di 149
+1. Sequence Raw nya adalah = 258040667
+2. Acknowledgement number nya adalah = 1044861039
+3. Sequence Raw nya adalah = 1044861039
+4. Acknowledgement number nya adalah = 258040696
 ### Kendala yang Dihadapi
+Alhamdulillah Tidak Ada
 
 ## Soal 2
 ### Screenshot
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/080f8aa8-5cd2-4c54-a333-146155e21fcb)
+
 ### Cara Pengerjaan
+Server nya adalah gunicorn cara melihatnya adalah dengan memfollow http stream.
 ### Kendala yang Dihadapi
+Alhamdulillah Tidak Ada
 
 ## Soal 3
 ### Screenshot
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/caca9caf-24ec-4a5b-b177-179de7e4fa57)
+
 ### Cara Pengerjaan
+Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal berikut:
+Berapa banyak paket yang tercapture dengan IP source maupun destination address adalah 239.255.255.250 dengan port 3702?
+Protokol layer transport apa yang digunakan?
+Filter Expression
+(ip.src == 239.255.255.250 and udp.srcport == 3702) or (ip.dst == 239.255.255.250 and udp.dstport == 3702)
+
+Jawaban
+Jarkom2023{4nalyz3_is_9846_BuRvQkEhEtA_gr3at}
+
 ### Kendala yang Dihadapi
+Alhamdulillah Tidak Ada
 
 ## Soal 4
 ### Screenshot
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/4448fa38-ccb3-4194-a101-55f3de7e8640)
+
 ### Cara Pengerjaan
+liat di udp di 130. cheksumnya : 0x18e5
 ### Kendala yang Dihadapi
+alhamdulillah tidak ada
 
 ## Soal 5
 ### Screenshot
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/d0fff356-796d-4521-a6ed-2caf569b7b35)
+![image](https://github.com/RP-Tama/Jarkom-Modul-1-IT12-2023/assets/113072294/b1252aa3-f222-4e83-812b-5b67ff8c6894)
+
 ### Cara Pengerjaan
+Di decode di base64 jadinya 5implePas5word
+
+Packets nya 60
+
+Source Port 25
 ### Kendala yang Dihadapi
+Alhamdulillah tidak ada
 
 ## Soal 6
 ### Screenshot
